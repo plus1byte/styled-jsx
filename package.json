@@ -4,6 +4,7 @@
   "license": "MIT",
   "repository": "tttl/styled-jsx",
   "description": "Full CSS support for JSX without compromises",
+  "author": "trent<hi@ttt.tl>",
   "files": [
     "dist",
     "lib",
