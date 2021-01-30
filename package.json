@@ -1,6 +1,6 @@
 {
   "name": "veno-styled-jsx",
-  "version": "0.0.8-dev.2",
+  "version": "0.0.9-beta.1",
   "license": "MIT",
   "repository": "tttl/styled-jsx",
   "description": "Full CSS support for JSX without compromises",
